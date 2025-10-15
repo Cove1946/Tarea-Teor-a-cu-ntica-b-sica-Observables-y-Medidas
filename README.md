@@ -5,7 +5,7 @@
 **Autor:** Cristian Ronaldo Guerrero Buitrago  
 **Curso:** Computación y Teoría Cuántica (CNYT)  
 **Institución:** Escuela Colombiana de Ingeniería Julio Garavito  
-**Repositorio:** *(añade aquí el enlace de tu repositorio en GitHub si lo tienes)*  
+**Repositorio:** *https://github.com/Cove1946/Tarea-Teor-a-cu-ntica-b-sica-Observables-y-Medidas/tree/main*  
 
 ---
 
