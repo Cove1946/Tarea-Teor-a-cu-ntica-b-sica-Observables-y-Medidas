@@ -3,7 +3,7 @@
 ## Teoría Cuántica Básica – Observables y Medidas  
 
 **Autor:** Cristian Ronaldo Guerrero Buitrago  
-**Curso:** Computación y Teoría Cuántica (CNYT)  
+**Curso:** Ciencas Naturales y Tecnologia (CNYT)  
 **Institución:** Escuela Colombiana de Ingeniería Julio Garavito  
 **Repositorio:** *https://github.com/Cove1946/Tarea-Teor-a-cu-ntica-b-sica-Observables-y-Medidas/tree/main*  
 
