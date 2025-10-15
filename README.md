@@ -82,7 +82,7 @@ teoria-cuantica-observables/
 ├── README.md                 # Documento de descripción del proyecto
 ```
 
-###Tecnologias utilizadas
+### Tecnologias utilizadas
 Python 3.8+ → Lenguaje principal.
 
 NumPy → Cálculos matriciales y operaciones con números complejos.
@@ -91,10 +91,10 @@ Matplotlib → Visualización de distribuciones de probabilidad.
 
 Jupyter Notebook / Google Colab → Entorno interactivo para simulaciones.
 
-###Licencia
+### Licencia
 Este proyecto se distribuye bajo la licencia MIT, permitiendo su uso con fines educativos y académicos.
 
-###Autor
+### Autor
 Cristian Ronaldo Guerrero Buitrago
 Curso: Computación y Teoría Cuántica (CNYT)
 Institución: Escuela Colombiana de Ingeniería Julio Garavito
